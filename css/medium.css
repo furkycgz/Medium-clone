@@ -1,0 +1,12 @@
+.font{
+font-style: oblique;
+}
+.bg-yellow{
+background-color: #FFC017;
+}
+.border-bottom-dark{
+border-bottom:1px solid #242424;
+}
+.list-bt >li{
+    margin-bottom:10px;
+}
